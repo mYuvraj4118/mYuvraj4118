@@ -1,20 +1,15 @@
 <div align="center">
 
-  <!-- Capsule Render Hero Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:3b82f6,100:a855f7&height=220&section=header&text=Yuvraj%20Mathe&fontSize=48&animation=twinkling&fontColor=ffffff&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Full%20Stack%20Developer&descSize=16&descAlign=50&descAlignY=70" width="100%" alt="Yuvraj Mathe Header" />
+  <!-- Header Banner using Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=70&lines=Yuvraj+Mathe;Computer+Engineering+Student;AI+%26+Full+Stack+Developer" alt="Yuvraj Mathe Header" />
+  </a>
 
   <br/>
 
-  <!-- Typing SVG Banner -->
+  <!-- Subtitle Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=45&lines=Computer+Engineering+Student;AI+Systems+Engineer;Agentic+AI+Developer;Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- GitHub Avatar -->
-  <a href="https://github.com/mYuvraj4118">
-    <img src="https://github.com/mYuvraj4118.png" width="130" height="130" alt="Yuvraj Mathe Profile Picture" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=40&lines=Competitive+Programmer;Problem+Solver;Open+Source+Contributor" alt="Subtyping SVG" />
   </a>
 
   <br/><br/>
@@ -23,7 +18,7 @@
     📍 <b>Pune, Maharashtra, India</b> &nbsp;|&nbsp; ✉️ <b><a href="mailto:matheyuvraj@gmail.com">matheyuvraj@gmail.com</a></b>
   </p>
 
-  <!-- Animated Wave Divider -->
+  <!-- Animated Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider Wave" />
 
 </div>
@@ -154,7 +149,9 @@
         <img src="https://img.shields.io/badge/LeetCode-mYuvraj4118-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
       </a>
       <br/><br/>
-      <img src="https://leetcode-stats-api.herokuapp.com/mYuvraj4118" width="100%" alt="LeetCode Stats" />
+      <a href="https://leetcode.com/u/mYuvraj4118/">
+        <img src="https://img.shields.io/badge/LeetCode_Profile-View-orange?style=flat-square&logo=leetcode" />
+      </a>
     </td>
     <td align="center" width="33%">
       <h3>CodeChef</h3>
@@ -190,41 +187,12 @@
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mYuvraj4118&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=93C5FD" alt="GitHub Stats" height="175" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mYuvraj4118&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=93C5FD" alt="Top Languages" height="175" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mYuvraj4118&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE" width="95%" alt="GitHub Streak" />
 
   <br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mYuvraj4118&theme=react-dark&bg_color=0D1117&color=00F2FE&line=00F2FE&point=A855F7&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 
-</div>
-
-<br/>
-
-<!-- ========================================== -->
-<!-- GITHUB TROPHIES & SNAKE                    -->
-<!-- ========================================== -->
-
-## 🏆 GitHub Trophies & Contribution Snake
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mYuvraj4118&theme=tokyonight&no-bg=true&no-frame=true&column=6" width="100%" alt="GitHub Trophies" />
-
-  <br/><br/>
-
-  <img src="https://raw.githubusercontent.com/mYuvraj4118/mYuvraj4118/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
