@@ -135,12 +135,12 @@
 <!-- LEETCODE ANALYTICS                         -->
 <!-- ========================================== -->
 
-## 🧩 LeetCode Analytics
+## ✦ LeetCode
 
 <div align="center">
 
   <a href="https://leetcode.com/u/mYuvraj4118/">
-    <img src="https://leetcard.vercel.app/mYuvraj4118?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="85%" />
+    <img src="https://leetcode-stats-badge.herokuapp.com/?username=mYuvraj4118&theme=dark" alt="LeetCode Live Stats" width="450" />
   </a>
 
 </div>
