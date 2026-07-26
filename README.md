@@ -33,13 +33,13 @@
   <tr>
     <td width="65%" valign="top">
       <p>
-        Hi there! 👋 I am <b>Yuvraj Mathe</b>, a passionate <b>Computer Engineering student</b> based in Pune, India[cite: 1]. I specialize in building robust full-stack web applications and exploring cutting-edge <b>Generative AI and Agentic workflows</b>.
+        Hi there! 👋 I am <b>Yuvraj Mathe</b>, a passionate <b>Computer Engineering student</b> based in Pune, India. I specialize in building robust full-stack web applications and exploring cutting-edge <b>Generative AI and Agentic workflows</b>.
       </p>
       <ul>
-        <li>🎓 <b>Education:</b> Pursuing B.E. in Computer Engineering at <b>PCET's NMIET (SPPU)</b> with a <b>9.01 CGPA</b>[cite: 1].</li>
-        <li>🧩 <b>Problem Solving:</b> Competitive programmer holding <b>5★ badges on HackerRank</b> for Java & Python, active on <b>LeetCode & CodeChef</b>[cite: 1].</li>
-        <li>💻 <b>Full-Stack Engineering:</b> Skilled in C, C++, Python, Java, JavaScript, React, Node.js, and SQL/MongoDB databases[cite: 1].</li>
-        <li>🚀 <b>Leadership:</b> Hackathon Team Lead, Event Coordinator for AWS Student Builder Group, and Anchor for national-level events[cite: 1].</li>
+        <li>🎓 <b>Education:</b> Pursuing B.E. in Computer Engineering at <b>PCET's NMIET (SPPU)</b> with a <b>9.01 CGPA</b>.</li>
+        <li>🧩 <b>Problem Solving:</b> Competitive programmer holding <b>5★ badges on HackerRank</b> for Java & Python, active on <b>LeetCode & CodeChef</b>.</li>
+        <li>💻 <b>Full-Stack Engineering:</b> Skilled in C, C++, Python, Java, JavaScript, React, Node.js, and SQL/MongoDB databases.</li>
+        <li>🚀 <b>Leadership:</b> Hackathon Team Lead, Event Coordinator for AWS Student Builder Group, and Anchor for national-level events.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -60,10 +60,10 @@
   <tr>
     <td align="left">
       <h3>🏛️ Bachelor of Engineering in Computer Engineering</h3>
-      <p><b>Institution:</b> PCET's Nutan Maharashtra Institute of Engineering & Technology (NMIET)[cite: 1]</p>
-      <p><b>University:</b> Savitribai Phule Pune University (SPPU)[cite: 1]</p>
-      <p><b>Timeline:</b> 2024 – Present &nbsp;|&nbsp; <b>CGPA:</b> <code>9.01 / 10.0</code>[cite: 1]</p>
-      <p><b>Relevant Coursework:</b> Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks, Software Design[cite: 1].</p>
+      <p><b>Institution:</b> PCET's Nutan Maharashtra Institute of Engineering & Technology (NMIET)</p>
+      <p><b>University:</b> Savitribai Phule Pune University (SPPU)</p>
+      <p><b>Timeline:</b> 2024 – Present &nbsp;|&nbsp; <b>CGPA:</b> <code>9.01 / 10.0</code></p>
+      <p><b>Relevant Coursework:</b> Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks, Software Design.</p>
     </td>
   </tr>
 </table>
@@ -100,18 +100,18 @@
   <tr>
     <td width="33%" align="center">
       <h3>⭐ 5 Stars</h3>
-      <p><b>HackerRank (Java)</b>[cite: 1]</p>
-      <p>Demonstrated strong proficiency in OOP, Data Structures, and Algorithmic Problem Solving[cite: 1].</p>
+      <p><b>HackerRank (Java)</b></p>
+      <p>Demonstrated strong proficiency in OOP, Data Structures, and Algorithmic Problem Solving.</p>
     </td>
     <td width="33%" align="center">
       <h3>⭐ 5 Stars</h3>
-      <p><b>HackerRank (Python)</b>[cite: 1]</p>
-      <p>Proven problem-solving skills and clean code practices[cite: 1].</p>
+      <p><b>HackerRank (Python)</b></p>
+      <p>Proven problem-solving skills and clean code practices.</p>
     </td>
     <td width="33%" align="center">
       <h3>⭐ 1 Star</h3>
-      <p><b>CodeChef Rated Programmer</b>[cite: 1]</p>
-      <p>Active participant solving coding problems in Java covering Data Structures and Algorithms[cite: 1].</p>
+      <p><b>CodeChef Rated Programmer</b></p>
+      <p>Active participant solving coding problems in Java covering Data Structures and Algorithms.</p>
     </td>
   </tr>
 </table>
@@ -124,10 +124,10 @@
 
 ## 👥 Leadership & Extra-Curriculars
 
-- 📌 **Event Management Coordinator** | *AWS Student Builder Group NMIET*[cite: 1]
-- 📌 **Student Coordinator** | *ACES (Association of Computer Engineering Students)*[cite: 1]
-- 🎙️ **Event Host & Anchor** | *Anchored in various college-level and national-level events*[cite: 1]
-- 💡 **Hackathon Team Lead** | *Coordinated development tasks across team members under time constraints*[cite: 1]
+- 📌 **Event Management Coordinator** | *AWS Student Builder Group NMIET*
+- 📌 **Student Coordinator** | *ACES (Association of Computer Engineering Students)*
+- 🎙️ **Event Host & Anchor** | *Anchored in various college-level and national-level events*
+- 💡 **Hackathon Team Lead** | *Coordinated development tasks across team members under time constraints*
 
 <br/>
 
