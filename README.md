@@ -7,7 +7,7 @@
 
   <!-- Animated Rotating Titles / Subtitles -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=50&lines=Computer+Engineering+Student;AI+%26+Full+Stack+Developer;Agentic+AI+Developer;Competitive+Programmer;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=50&lines=Computer+Engineering+Student;AI+%26+Full+Stack+Developer;Competitive+Programmer;Software+Developer" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -43,7 +43,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding Animation" />
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Coding Animation" />
     </td>
   </tr>
 </table>
