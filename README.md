@@ -139,7 +139,12 @@
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mYuvraj4118&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE" width="95%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mYuvraj4118&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=93C5FD&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mYuvraj4118&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=93C5FD&count_private=true" alt="Top Languages" width="48%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mYuvraj4118&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE&count_private=true" width="95%" alt="GitHub Streak" />
 
   <br/><br/>
 
