@@ -172,12 +172,10 @@
   <a href="https://www.hackerrank.com/profile/mYuvraj4118">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="<Leave Placeholder - I'll add later>">
+  <a href="https://www.linkedin.com/in/yuvraj-mathe">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="<Leave Placeholder>">
-    <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=firefox&logoColor=black" />
-  </a>
+
 
 </div>
 
