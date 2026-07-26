@@ -140,7 +140,7 @@
 <div align="center">
 
   <a href="https://leetcode.com/u/mYuvraj4118/">
-    <img src="https://leetcode-stats-badge.herokuapp.com/?username=mYuvraj4118&theme=dark" alt="LeetCode Live Stats" width="450" />
+    <img src="https://leetcard.vercel.app/mYuvraj4118?theme=dark&font=Fira%20Code" alt="LeetCode Live Stats" width="450" />
   </a>
 
 </div>
