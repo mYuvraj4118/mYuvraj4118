@@ -43,7 +43,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/L1R1tvI9svvIWwpVYz/giphy.gif" width="100%" style="border-radius:10px;" alt="Young Man Coding Animation" />
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding Animation" />
     </td>
   </tr>
 </table>
