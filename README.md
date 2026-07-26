@@ -139,14 +139,19 @@
 
 <div align="center">
 
-  <a href="https://leetcode.com/u/mYuvraj4118/">
-    <img src="https://leetcard.vercel.app/mYuvraj4118?theme=dark&font=Fira%20Code" alt="LeetCode Live Stats" width="450" />
-  </a>
+  <table border="0" width="80%">
+    <tr>
+      <td align="center">
+        <a href="https://leetcode.com/u/mYuvraj4118/">
+          <img src="https://leetcode-badge-sage.vercel.app/mYuvraj4118" alt="LeetCode Profile Card" width="400" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 <br/>
-
 <!-- ========================================== -->
 <!-- GITHUB ANALYTICS                           -->
 <!-- ========================================== -->
