@@ -139,19 +139,6 @@
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mYuvraj4118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mYuvraj4118&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="165" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mYuvraj4118&theme=tokyonight&hide_border=true&count_private=true" width="95%" alt="GitHub Streak" />
 
   <br/><br/>
