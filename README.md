@@ -1,15 +1,13 @@
 <div align="center">
 
-  <!-- Header Banner using Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=70&lines=Yuvraj+Mathe;Computer+Engineering+Student;AI+%26+Full+Stack+Developer" alt="Yuvraj Mathe Header" />
-  </a>
+  <!-- Static Name Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:3b82f6,100:a855f7&height=200&section=header&text=Yuvraj%20Mathe&fontSize=48&fontColor=ffffff" width="100%" alt="Yuvraj Mathe" />
 
   <br/>
 
-  <!-- Subtitle Typing SVG -->
+  <!-- Animated Rotating Titles / Subtitles -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=40&lines=Competitive+Programmer;Problem+Solver;Open+Source+Contributor" alt="Subtyping SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=50&lines=Computer+Engineering+Student;AI+%26+Full+Stack+Developer;Agentic+AI+Developer;Competitive+Programmer;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -134,52 +132,6 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- COMPETITIVE PROGRAMMING                   -->
-<!-- ========================================== -->
-
-## 🧩 Competitive Programming Profiles
-
-<div align="center">
-
-<table border="0" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h3>LeetCode</h3>
-      <a href="https://leetcode.com/u/mYuvraj4118/">
-        <img src="https://img.shields.io/badge/LeetCode-mYuvraj4118-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-      </a>
-      <br/><br/>
-      <a href="https://leetcode.com/u/mYuvraj4118/">
-        <img src="https://img.shields.io/badge/LeetCode_Profile-View-orange?style=flat-square&logo=leetcode" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h3>CodeChef</h3>
-      <a href="https://www.codechef.com/users/myuvraj4118">
-        <img src="https://img.shields.io/badge/CodeChef-1%E2%98%85%20myuvraj4118-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-      </a>
-      <br/><br/>
-      <p><b>Status:</b> 1 Star Rated Programmer[cite: 1]</p>
-      <p><b>Focus:</b> Data Structures & Algorithms in Java[cite: 1]</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>HackerRank</h3>
-      <a href="https://www.hackerrank.com/profile/mYuvraj4118">
-        <img src="https://img.shields.io/badge/HackerRank-mYuvraj4118-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-      </a>
-      <br/><br/>
-      <p><b>Badges:</b></p>
-      <p>⭐⭐⭐⭐⭐ Java[cite: 1]</p>
-      <p>⭐⭐⭐⭐⭐ Python[cite: 1]</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ========================================== -->
 <!-- GITHUB ANALYTICS                           -->
 <!-- ========================================== -->
 
@@ -232,20 +184,10 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- VISITOR COUNTER & FOOTER                   -->
+<!-- FOOTER                                     -->
 <!-- ========================================== -->
 
 <div align="center">
-
-  <hr width="80%" />
-
-  <p>
-    <img src="https://profile-counter.glitch.me/mYuvraj4118/count.svg" alt="Visitor Counter" />
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/github/followers/mYuvraj4118?label=Followers&style=social" />
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/github/stars/mYuvraj4118?label=Stars&style=social" />
-  </p>
 
   <p><i>Designed with ❤️ by <b>Yuvraj Mathe</b></i></p>
 
