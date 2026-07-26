@@ -132,6 +132,22 @@
 <br/>
 
 <!-- ========================================== -->
+<!-- LEETCODE ANALYTICS                         -->
+<!-- ========================================== -->
+
+## 🧩 LeetCode Analytics
+
+<div align="center">
+
+  <a href="https://leetcode.com/u/mYuvraj4118/">
+    <img src="https://leetcard.vercel.app/mYuvraj4118?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="85%" />
+  </a>
+
+</div>
+
+<br/>
+
+<!-- ========================================== -->
 <!-- GITHUB ANALYTICS                           -->
 <!-- ========================================== -->
 
