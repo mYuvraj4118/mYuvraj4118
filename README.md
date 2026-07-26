@@ -132,27 +132,6 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- LEETCODE ANALYTICS                         -->
-<!-- ========================================== -->
-
-## ✦ LeetCode
-
-<div align="center">
-
-  <table border="0" width="80%">
-    <tr>
-      <td align="center">
-        <a href="https://leetcode.com/u/mYuvraj4118/">
-          <img src="https://leetcode-badge-sage.vercel.app/mYuvraj4118" alt="LeetCode Profile Card" width="400" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<br/>
-<!-- ========================================== -->
 <!-- GITHUB ANALYTICS                           -->
 <!-- ========================================== -->
 
