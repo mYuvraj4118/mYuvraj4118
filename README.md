@@ -139,10 +139,6 @@
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mYuvraj4118&theme=tokyonight&hide_border=true&count_private=true" width="95%" alt="GitHub Streak" />
-
-  <br/><br/>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mYuvraj4118&theme=react-dark&hide_border=true" width="95%" alt="Activity Graph" />
 
 </div>
