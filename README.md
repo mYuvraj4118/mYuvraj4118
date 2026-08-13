@@ -39,7 +39,7 @@
         <li>🎓 <b>Education:</b> Pursuing B.E. in Computer Engineering at <b>PCET's NMIET (SPPU)</b> with a <b>9.01 CGPA</b>.</li>
         <li>🧩 <b>Problem Solving:</b> Competitive programmer holding <b>5★ badges on HackerRank</b> for Java & Python, active on <b>LeetCode & CodeChef</b>.</li>
         <li>💻 <b>Full-Stack Engineering:</b> Skilled in C, C++, Python, Java, JavaScript, React, Node.js, Express.js, EJS and SQL/MongoDB databases.</li>
-        <li>🚀 <b>Leadership:</b> Student Coordinator for Association of Computer Engineering Students (ACES), Management Coordinator for AWS Student Builder Group, Hackathon Team Lead and Anchor for national-level events.</li>
+        <li>🚀 <b>Leadership:</b> Secretary for Association of Computer Engineering Students (ACES), Management Coordinator for AWS Student Builder Group, Hackathon Team Lead and Anchor for national-level events.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -125,7 +125,7 @@
 ## 👥 Leadership & Extra-Curriculars
 
 - 📌 **Event Management Coordinator** | *AWS Student Builder Group NMIET*
-- 📌 **Student Coordinator** | *ACES (Association of Computer Engineering Students)*
+- 📌 **Secretary** | *ACES (Association of Computer Engineering Students)*
 - 🎙️ **Event Host & Anchor** | *Anchored in various college-level and national-level events*
 - 💡 **Hackathon Team Lead** | *Coordinated development tasks across team members under time constraints*
 
