@@ -36,7 +36,7 @@
         Hi there! 👋 I am <b>Yuvraj Mathe</b>, a passionate <b>Computer Engineering student</b> based in Pune, India. I specialize in building robust full-stack web applications and exploring cutting-edge <b>Generative AI and Agentic workflows</b>.
       </p>
       <ul>
-        <li>🎓 <b>Education:</b> Pursuing B.E. in Computer Engineering at <b>PCET's NMIET (SPPU)</b> with a <b>9.01 CGPA</b>.</li>
+        <li>🎓 <b>Education:</b> Pursuing B.E. in Computer Engineering at <b>PCET's NMIET (SPPU)</b> with a <b>8.9 CGPA</b>.</li>
         <li>🧩 <b>Problem Solving:</b> Competitive programmer holding <b>5★ badges on HackerRank</b> for Java & Python, active on <b>LeetCode & CodeChef</b>.</li>
         <li>💻 <b>Full-Stack Engineering:</b> Skilled in C, C++, Python, Java, JavaScript, React, Node.js, Express.js, EJS and SQL/MongoDB databases.</li>
         <li>🚀 <b>Leadership:</b> Secretary for Association of Computer Engineering Students (ACES), Management Coordinator for AWS Student Builder Group, Hackathon Team Lead and Anchor for national-level events.</li>
@@ -62,7 +62,7 @@
       <h3>🏛️ Bachelor of Engineering in Computer Engineering</h3>
       <p><b>Institution:</b> PCET's Nutan Maharashtra Institute of Engineering & Technology (NMIET)</p>
       <p><b>University:</b> Savitribai Phule Pune University (SPPU)</p>
-      <p><b>Timeline:</b> 2024 – Present &nbsp;|&nbsp; <b>CGPA:</b> <code>9.01 / 10.0</code></p>
+      <p><b>Timeline:</b> 2024 – Present &nbsp;|&nbsp; <b>CGPA:</b> <code>8.9 / 10.0</code></p>
       <p><b>Relevant Coursework:</b> Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks, Software Design.</p>
     </td>
   </tr>
