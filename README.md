@@ -109,7 +109,7 @@
       <p>Proven problem-solving skills and clean code practices.</p>
     </td>
     <td width="33%" align="center">
-      <h3>⭐ 1 Star</h3>
+      <h3>⭐ 2 Stars</h3>
       <p><b>CodeChef Rated Programmer</b></p>
       <p>Active participant solving coding problems in Java covering Data Structures and Algorithms.</p>
     </td>
