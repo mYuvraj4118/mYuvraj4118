@@ -139,7 +139,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mYuvraj4118&theme=react-dark&hide_border=true" width="95%" alt="Activity Graph" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mYuvraj4118&theme=github_dark" width="100%" />
 
 </div>
 
