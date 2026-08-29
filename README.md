@@ -145,6 +145,22 @@
 
 <br/>
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mYuvraj4118&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mYuvraj4118&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    height="180"
+    alt="Most Used Languages"
+  />
+</p>
+
 <!-- ========================================== -->
 <!-- CONNECT WITH ME                            -->
 <!-- ========================================== -->
