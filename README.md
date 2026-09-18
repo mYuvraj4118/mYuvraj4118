@@ -169,7 +169,7 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://neetcode.io/user/QuasarMewtwo349">
-    <img src="https://img.shields.io/badge/NeetCode-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/NeetCode-92400E?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/yuvraj-mathe">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
