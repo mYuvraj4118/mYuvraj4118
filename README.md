@@ -33,7 +33,7 @@
   <tr>
     <td width="65%" valign="top">
       <p>
-        Hi there! 👋 I am <b>Yuvraj Mathe</b>, a passionate <b>Computer Engineering student</b> based in Pune, India. I specialize in building robust full-stack web applications and exploring cutting-edge <b>Generative AI and Agentic workflows</b>.
+        Hi there !! 👋 I am <b>Yuvraj Mathe</b>, a passionate <b>Computer Engineering student</b> based in Pune, India. I specialize in building robust full-stack web applications and exploring cutting-edge <b>Generative AI and Agentic workflows</b>.
       </p>
       <ul>
         <li>🎓 <b>Education:</b> Pursuing B.E. in Computer Engineering at <b>PCET's NMIET (SPPU)</b> with a <b>8.9 CGPA</b>.</li>
